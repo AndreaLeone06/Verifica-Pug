@@ -1,0 +1,29 @@
+{
+    "animals": [
+      {
+        "id_figurina": 1,
+        "razza_animale": "Red Panda",
+        "specie_animale": "Ailurus fulgens",
+        "area_provenienza": "Asia",
+        "rischio_estinzione": true,
+        "foto": "https://some-random-api.ml/img/red_panda"
+      },
+      {
+        "id_figurina": 2,
+        "razza_animale": "Elefante Africano",
+        "specie_animale": "Loxodonta africana",
+        "area_provenienza": "Africa",
+        "rischio_estinzione": true,
+        "foto": "https://example.com/elephant.jpg"
+      },
+      {
+        "id_figurina": 3,
+        "razza_animale": "Pinguino Imperatore",
+        "specie_animale": "Aptenodytes forsteri",
+        "area_provenienza": "Antartide",
+        "rischio_estinzione": false,
+        "foto": "https://example.com/penguin.jpg"
+      }
+    ]
+  }
+  
