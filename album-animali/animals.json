@@ -6,7 +6,7 @@
         "specie_animale": "Ailurus fulgens",
         "area_provenienza": "Asia",
         "rischio_estinzione": true,
-        "foto": "https://some-random-api.ml/img/red_panda"
+        "foto": "https://images5.alphacoders.com/324/thumb-1920-324841.jpg"
       },
       {
         "id_figurina": 2,
@@ -14,7 +14,7 @@
         "specie_animale": "Loxodonta africana",
         "area_provenienza": "Africa",
         "rischio_estinzione": true,
-        "foto": "https://example.com/elephant.jpg"
+        "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Elephant_(Loxodonta_Africana)_04.jpg"
       },
       {
         "id_figurina": 3,
@@ -22,7 +22,7 @@
         "specie_animale": "Aptenodytes forsteri",
         "area_provenienza": "Antartide",
         "rischio_estinzione": false,
-        "foto": "https://example.com/penguin.jpg"
+        "foto": "https://vignette.wikia.nocookie.net/inazumaelevenwiki-italia/images/6/6e/Pinguino_Imperatore_n%C2%B02.png/revision/latest?cb=20120717232926&path-prefix=it"
       }
     ]
   }
